@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_joao_dinis", "Projeto_joao_dinis_consola\Projeto_joao_dinis.csproj", "{F88D998B-5CA8-413C-8C05-C7E8EC6515E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_joao_dinis_lib", "Projeto_joao_dinis_lib\Projeto_joao_dinis_lib.csproj", "{4B60F403-E8FB-4F64-A7FD-07EBDFB012FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88D998B-5CA8-413C-8C05-C7E8EC6515E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88D998B-5CA8-413C-8C05-C7E8EC6515E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88D998B-5CA8-413C-8C05-C7E8EC6515E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88D998B-5CA8-413C-8C05-C7E8EC6515E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B60F403-E8FB-4F64-A7FD-07EBDFB012FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B60F403-E8FB-4F64-A7FD-07EBDFB012FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B60F403-E8FB-4F64-A7FD-07EBDFB012FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B60F403-E8FB-4F64-A7FD-07EBDFB012FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18AC5E95-DECA-44A2-B389-7B8B4076DF97}
+	EndGlobalSection
+EndGlobal
